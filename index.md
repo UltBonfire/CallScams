@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+#What’s going on?
 
-You can use the [editor on GitHub](https://github.com/UltBonfire/callscams/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We’ve all had phone calls claiming to be from either your bank, the IRS, Microsoft or even a family member but something doesn’t seem quite right…
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If it doesn’t seem normal, don’t do anything; even if it’s your real bank, your right to safety takes priority and let them know you’ll visit your local branch. We’ve all had phone calls claiming to be from either your bank, the IRS, Microsoft or even a family member but something doesn’t seem quite right…
+
 
 ### Markdown
 
